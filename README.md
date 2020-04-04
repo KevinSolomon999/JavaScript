@@ -1,1 +1,1 @@
-# toss-solutions
+# solutions
