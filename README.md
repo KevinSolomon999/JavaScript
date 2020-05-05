@@ -1,1 +1,1 @@
-#These Are Basic Beginner Scripts
+These Are Basic Beginner Scripts
